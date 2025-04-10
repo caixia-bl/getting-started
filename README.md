@@ -7,3 +7,5 @@ Update 1
 2. Follow this tutorial: https://docs.microsoft.com/en-us/azure/container-instances/container-instances-github-action
 
 Now any change should trigger a deploy.
+
+test my new deployment.
